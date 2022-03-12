@@ -37,7 +37,7 @@ numpy = [
 ]
 six = "^1.16"
 # This functionality was merged into python stdlib beginning in 3.8
-importlib_metadata = {version="^4.10", python="~3.6"}
+importlib_metadata = {version="^4.8.3", python="~3.6"}
 # Documentation, must be in main dependencies (but optional) list for
 # readthedocs integration.
 # See https://github.com/readthedocs/readthedocs.org/issues/4912.
